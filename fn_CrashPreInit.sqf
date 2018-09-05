@@ -14,5 +14,3 @@ diag_log " |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ";
 if (hasInterface) exitWith {};
 
 call compile preprocessFileLineNumbers "yeiijCrash\config\config.sqf";
-
-call compile preprocessFileLineNumbers "scriptsv\fn_saludo.sqf";

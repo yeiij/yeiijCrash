@@ -41,7 +41,7 @@ class CfgFunctions
 			file = "yeiijCrash\functions";
 			class CrashCleanWreck {};
 			class CrashFillBoxes {};
-			class CrashSelectPossition {};
+			class CrashSelectPosition {};
 			class CrashSpawnWreck {};
 			class CrashStartAddon {};
 		};

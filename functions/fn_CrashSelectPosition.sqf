@@ -3,7 +3,7 @@
  * Addon: yeiijCrash
  * Author: Jason REDUX (@Yeiij)
  * Date: 17/08/2018
- * File: fn_CrashSelectPossition.sqf
+ * File: fn_CrashSelectPosition.sqf
  *
  */
 

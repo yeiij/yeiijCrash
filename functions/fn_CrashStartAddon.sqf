@@ -16,7 +16,7 @@ diag_log " :::::::::::::::::::::::::::::::::::::::::::::::::: ";
 
         sleep YEIIJ_crashWait;
 
-        [] call YEIIJ_fnc_CrashSelectPossition;
+        [] call YEIIJ_fnc_CrashSelectPosition;
 
         if (!YEIIJ_crashRun) exitWith {
             diag_log " :::::::::::::::::::::::::::::::::::::::::::::::::: ";
