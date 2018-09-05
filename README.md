@@ -5,7 +5,7 @@ Standalone Addon for Arma 3 oriented to Altis Life
 The addon generate crashed helicopters in an random position from a defined array of positions, the crash contains 2 small boxes arround, one with weapons and the other with ammo
 
 ## How i do install this?
-1 - Download the code and make a PBO or download the latest released versión
+1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijCrash/releases)
 <br>
 2 - Put the PBO file inside @life_server\addons
 > iex: @life_server\addons\yeiijCrash.pbo
