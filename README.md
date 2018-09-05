@@ -11,7 +11,7 @@ or
 </br>
 1 - Download the latest released versión
 <br>
-2.0 - Put the PBO file inside @life_server\addons
+2 - Put the PBO file inside @life_server\addons
 > iex: @life_server\addons\yeiijCrash.pbo
 
 ## How i do edit this?
