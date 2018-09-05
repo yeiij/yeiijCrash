@@ -15,4 +15,5 @@ or
 > iex: @life_server\addons\yeiijCrash.pbo
 
 ## How i do edit this?
-the addon contains a file named config.sqf inside the folder config
+the addon contains a file named [config.sqf](https://github.com/yeiij/yeiijCrash/blob/master/config/config.sqf) inside the folder config
+
