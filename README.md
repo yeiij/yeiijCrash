@@ -1,5 +1,5 @@
 # yeiijCrash
-Standalone Addon for Arma 3 oriented to Altis Life
+Standalone Addon for Arma 3
 
 ## What this does?
 The addon generate crashed helicopters in an random position from a defined array of positions, the crash contains 2 small boxes arround, one with weapons and the other with ammo
