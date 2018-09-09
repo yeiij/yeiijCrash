@@ -19,13 +19,13 @@ YEIIJ_crashWait = 600; // def 600, 5 minutes
 // delay between spawns
 YEIIJ_crashSpawnDelay = 7200; // def 7200 secs, every 2 hours
 // wreck class name
-YEIIJ_YEIIJ_crashWreckCls = "Land_Wreck_Heli_Attack_01_F"; // def blackfoot wreck
+YEIIJ_crashWreckCls = "Land_Wreck_Heli_Attack_01_F"; // def blackfoot wreck
 // wreck smoke class name
-YEIIJ_YEIIJ_crashSmokeCls = "test_EmptyObjectForSmoke"; // def smoke particles
+YEIIJ_crashSmokeCls = "test_EmptyObjectForSmoke"; // def smoke particles
 // wreck box ammo class name
-YEIIJ_YEIIJ_crashAmoBoxCls = "Box_NATO_Support_F"; // def NATO support box
+YEIIJ_crashAmoBoxCls = "Box_NATO_Support_F"; // def NATO support box
 // wreck box weapons class name
-YEIIJ_YEIIJ_crashWepBoxCls = "Box_NATO_WpsLaunch_F"; // def NATO weapon launchers
+YEIIJ_crashWepBoxCls = "Box_NATO_WpsLaunch_F"; // def NATO weapon launchers
 // default pos
 YEIIJ_crashDefPos = [0,0,0]; // def [0,0,0]
 // first wreck Pos
