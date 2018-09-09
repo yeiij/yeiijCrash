@@ -8,7 +8,9 @@ The addon generate crashed helicopters in an random position from a defined arra
 1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijCrash/releases)
 <br>
 2 - Put the PBO file inside @life_server\addons
-> iex: @life_server\addons\yeiijCrash.pbo
+```
+iex: @life_server\addons\yeiijCrash.pbo
+```
 
 ## How i do edit this?
 the addon contains a file named [config.sqf](https://github.com/yeiij/yeiijCrash/blob/master/config/config.sqf) inside the folder config
