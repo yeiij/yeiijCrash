@@ -35,6 +35,7 @@ class CfgFunctions
 			file = "yeiijCrash";
 			class CrashPreInit  { preInit  = 1; };
 			class CrashPostInit { postInit = 1; };
+			class CrashStartAddon {};
 		};
 		class compilesCrash
 		{
@@ -43,7 +44,6 @@ class CfgFunctions
 			class CrashFillBoxes {};
 			class CrashSelectPosition {};
 			class CrashSpawnWreck {};
-			class CrashStartAddon {};
 		};
 	};
 };

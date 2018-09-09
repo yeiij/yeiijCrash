@@ -15,7 +15,7 @@ YEIIJ_crashRun = true; // def true
 // define the usage of debugging markers
 YEIIJ_crashDbgMkrs = true; // def false
 // define the time before start the first crash
-YEIIJ_crashWait = 600; // def 600, 5 minutes
+YEIIJ_crashWait = 300; // def 300, 5 minutes
 // delay between spawns
 YEIIJ_crashSpawnDelay = 7200; // def 7200 secs, every 2 hours
 // wreck class name
