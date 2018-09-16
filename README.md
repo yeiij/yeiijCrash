@@ -7,9 +7,10 @@ The addon generate crashed helicopters in an random position from a defined arra
 ## How i do install this?
 1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijCrash/releases)
 <br>
-2 - Put the PBO file inside @life_server\addons
+2 - Put the PBO file inside @Yeiij\addons
 ```
-iex: @life_server\addons\yeiijCrash.pbo
+iex: @Yeiij\addons\yeiijCrash.pbo
+remember load the mod on server start at -serverMods
 ```
 
 ## How i do edit this?
