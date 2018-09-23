@@ -19,4 +19,5 @@ deleteVehicle YEIIJ_crashWreck;
 // clean marker in case of debug active
 if (YEIIJ_crashDbgMkrs) then {
     deleteMarker YEIIJ_crashMkr;
+    deleteMarker YEIIJ_crashWreckMkr2;
 };
